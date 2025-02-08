@@ -1,0 +1,8 @@
+#ifndef PUBSUB_CPP_CONF_H_
+#define PUBSUB_CPP_CONF_H_
+
+#define UDP_DEFAULT_IP "127.255.255.255"
+#define UDP_DEFAULT_PORT 60423
+#define UDP_MAX_LEN 1472
+
+#endif
